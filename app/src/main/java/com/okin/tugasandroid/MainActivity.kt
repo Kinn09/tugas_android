@@ -34,8 +34,8 @@ class MainActivity : AppCompatActivity() {
 
     private fun showRecylerList(){
         rvFood.layoutManager = LinearLayoutManager(this)
-        val listHeroAdapter = ListFoodAdapter(list)
-        rvFood.adapter = listHeroAdapter
+        val listFoodAdapter = ListFoodAdapter(list)
+        rvFood.adapter = listFoodAdapter
     }
 
 }
