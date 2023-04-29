@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">MyRecylerVeiw</string>
+
+    <string-array name="data_name">
+        <item>Ayam Kecap</item>
+        <item>Babi Tore</item>
+        <item>Bakso</item>
+        <item>Ketoprak</item>
+        <item>Lalapan</item>
+        <item>Mie Ayam</item>
+        <item>Nasi Goreng</item>
+        <item>Nasi Kuning</item>
+        <item>Sate</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Ayam kecap adalah makanan yang terbuat dari potongan-potongan daging ayam yang dimasak dengan bumbu kecap manis. Ayam kecap biasanya dihidangkan dengan nasi putih dan sayuran tumis sebagai pelengkap.</item>
+        <item>Babi Tore adalah makanan tradisional dari daerah Manado, Sulawesi Utara, Indonesia. Makanan ini terbuat dari daging babi yang dipotong kecil-kecil dan dicampur dengan bumbu rempah khas Manado seperti kunyit, bawang putih, bawang merah, dan cabe merah. Selain itu, juga ditambahkan daun kemangi dan serai yang memberikan aroma khas pada makanan ini.</item>
+        <item>Bakso adalah makanan khas Indonesia yang terbuat dari daging sapi yang dihaluskan dan dicampur dengan tepung tapioka, bawang putih, bawang merah, dan beberapa bahan lainnya. Adonan ini dibentuk menjadi bulatan-bulatan kecil atau besar yang kemudian direbus dalam air mendidih hingga matang.</item>
+        <item>Ketoprak adalah salah satu makanan khas Indonesia yang terbuat dari bahan-bahan sederhana seperti tahu, bihun, taoge, dan kerupuk. Ketoprak biasanya disajikan dengan bumbu kacang yang terbuat dari kacang tanah yang digiling, bawang putih, gula, air asam, dan cabai rawit.</item>
+        <item>Lalapan adalah makanan khas Indonesia yang terdiri dari berbagai macam sayuran segar seperti daun singkong, kemangi, daun ubi, kacang panjang, mentimun, dan tomat. Lalapan biasanya disajikan dengan lauk pauk seperti ayam goreng, ikan goreng, atau tempe goreng, serta sambal dan nasi putih.</item>
+        <item>Mie ayam adalah hidangan mie yang populer di Indonesia, terdiri dari mie kuning yang disajikan dengan potongan daging ayam yang empuk dan berbagai pelengkap seperti sawi hijau, tauge, bawang goreng, dan irisan bakso. Biasanya mie ayam disajikan dengan kuah kaldu yang gurih dan beraroma sedap.</item>
+        <item>Nasi goreng adalah hidangan nasi yang populer di Indonesia, terdiri dari nasi yang diaduk bersama bumbu-bumbu seperti bawang putih, bawang merah, cabai, kecap manis, dan kecap asin. Biasanya nasi goreng juga dicampur dengan irisan daging, telur, dan sayuran seperti wortel, kacang polong, dan daun bawang.</item>
+        <item>Nasi kuning adalah hidangan nasi yang populer di Indonesia, terbuat dari beras yang dicampur dengan bumbu kuning yang terbuat dari rempah-rempah seperti kunyit, serai, dan daun pandan. Nasi kuning biasanya disajikan pada acara-acara penting seperti pernikahan, upacara adat, dan hari raya.</item>
+        <item>Sate adalah hidangan daging yang populer di Indonesia dan banyak negara di Asia Tenggara, terdiri dari potongan daging atau ayam yang ditusuk dengan tusuk sate dan kemudian dipanggang atau dibakar di atas bara api. Sate biasanya disajikan dengan bumbu kacang atau sambal sebagai sausnya.</item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/ayam_kecap</item>
+        <item>@drawable/babi_tore</item>
+        <item>@drawable/bakso</item>
+        <item>@drawable/ketoprak</item>
+        <item>@drawable/lalapan</item>
+        <item>@drawable/mie_ayam</item>
+        <item>@drawable/nasi_goreng</item>
+        <item>@drawable/nasi_kuning</item>
+        <item>@drawable/sate</item>
+    </integer-array>
+</resources>
